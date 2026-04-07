@@ -1,5 +1,5 @@
 ## Introduction
-In thistask  hands-on learning in Security Operations Center practices. It includes threat hunting,post incident analysis,alert triage with automation,evidence analysis, adversary emulation, and security metrics. The goal is to simulate attacks, detect them, respond effectively, and improve SOC processes using open-source tools and structured methodologies.
+In this task  hands-on learning in Security Operations Center practices. It includes threat hunting,post incident analysis,alert triage with automation,evidence analysis, adversary emulation, and security metrics. The goal is to simulate attacks, detect them, respond effectively, and improve SOC processes using open-source tools and structured methodologies.
 
 ## Key Learnings
 - understood Proactive threat hunting using hypotheses and frameworks
